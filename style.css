@@ -1,5 +1,14 @@
+#ImagemChile {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
 body {
-    background-color: bisque;
+    background-color: rgb(240, 229, 215);
+    margin: 0 60px 40px 50px;
 }
 
 nav {
@@ -20,4 +29,14 @@ a {
 img {
     width: 400px;
     padding: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    text-align: justify;
+    padding: 16 40 16 30;
 }
